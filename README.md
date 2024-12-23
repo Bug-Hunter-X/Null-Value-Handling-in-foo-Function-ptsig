@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug involving unexpected behavior when null values are passed as arguments to a function. The `foo` function lacks proper null handling, potentially causing errors or unexpected results.  The solution provides a more robust implementation.
